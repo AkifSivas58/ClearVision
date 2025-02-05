@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Project Overview  
-**ClearVision** is an advanced image processing tool designed for the **defense industry**, focusing on:  
+**ClearVision** is an advanced image processing tool, focusing on:  
 ✔️ **Image Enhancement:** Denoising, sharpening, and smoothing images using various filters.  
 ✔️ **Steganography:** Embedding and extracting secret messages using Least Significant Bit (LSB) manipulation.  
 ✔️ **Matrix Operations:** Storing images securely using **upper and lower triangular matrices**.  
@@ -51,5 +51,6 @@ make
 ./clearvision gauss input.png 5 1.2  
 ./clearvision enc secret.png "Hidden message inside!"  
 ./clearvision dec secret.png 24  
-
 ---
+
+## For more details you can refer to the pdf.
