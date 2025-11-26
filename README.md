@@ -11,8 +11,8 @@
 ✔️ **Steganography:** Embedding and extracting secret messages using Least Significant Bit (LSB) manipulation.  
 ✔️ **Matrix Operations:** Storing images securely using **upper and lower triangular matrices**.  
 
-Example Images:
 ![Gaussian](./ClearVision/sample_io/gauss/gaussian_filtered_puppy_21x21_2.png)
+![Gaussian](./ClearVision/sample_io/gauss/puppy.png)
 ---
 
 ## ⚙️ Features & Implementations  
